@@ -1,0 +1,33 @@
+body {
+    font-family: 'Concert One', cursive;
+}
+
+
+h1 a {
+    color: #FCA205;
+    text-decoration: #FCA205 underline overline;
+}
+
+h1 a:hover {
+    color: #FCA205;
+}
+
+body {
+    padding-left: 5px;
+}
+
+a {
+     text-decoration: none;
+}
+
+.text {
+    font-size: 22px;
+}
+
+.position {
+    margin-bottom: 10px;
+}
+
+.bg {
+    background-color: #c3dad5;
+}
