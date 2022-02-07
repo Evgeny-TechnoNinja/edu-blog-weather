@@ -31,3 +31,7 @@ a {
 .bg {
     background-color: #c3dad5;
 }
+
+.date {
+    background-color: red;
+}
